@@ -1,6 +1,5 @@
 import logoImg from '../../assets/logo.svg';
 
-// eslint-disable-next-line import/no-unresolved
 import { Container, Content } from './styles';
 
 export function Header() {
